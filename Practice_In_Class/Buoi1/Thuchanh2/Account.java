@@ -1,4 +1,4 @@
-package Practice_In_Class.Thuchanh2;
+package Practice_In_Class.Buoi1.Thuchanh2;
 
 public class Account {
     private String name;

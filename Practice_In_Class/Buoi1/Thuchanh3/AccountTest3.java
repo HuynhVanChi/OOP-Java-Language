@@ -1,11 +1,10 @@
-package Practice_In_Class.Thuchanh3;
+package Practice_In_Class.Buoi1.Thuchanh3;
 
 import java.util.Scanner;
 
 public class AccountTest3 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
-        double depositAmount = 0.0; 
         
         Account account1 = new Account(null,50.0);
         Account account2 = new Account(null, -7.730);
@@ -25,7 +24,7 @@ public class AccountTest3 {
 
         //Cho phep nguoi dung nhap deposit
         System.out.print("Nhap so can nap cho Account 1: ");
-        depositAmount = input.nextDouble();
+        double depositAmount = input.nextDouble();
         
         //hien thi lai noi dung can nap de kiem tra dung chua
         System.out.println("Ban dang cong them Account 1: " + depositAmount);
