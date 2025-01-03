@@ -1,4 +1,4 @@
-package Practice_In_Class.Buoi1.Thuchanh4;
+package Practice_In_Class.Chuong_1.Project_1;
 
 import java.security.SecureRandom;
 

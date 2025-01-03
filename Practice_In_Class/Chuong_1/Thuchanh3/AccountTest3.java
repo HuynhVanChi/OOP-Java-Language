@@ -1,4 +1,4 @@
-package Practice_In_Class.Buoi1.Thuchanh3;
+package Practice_In_Class.Chuong_1.Thuchanh3;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package Practice_In_Class.Buoi1.Thuchanh2;
+package Practice_In_Class.Chuong_1.Thuchanh2;
 
 public class AccountTest2 {
     public static void main(String[] args) {
